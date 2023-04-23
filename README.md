@@ -41,12 +41,12 @@
 <hr>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <!--
 <img src="https://komarev.com/ghpvc/?username=iandyone&style=flat-square&color=blue" alt=""/>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA3YmU2Y2MyYmVmZDJiY2VhZDgwYzcxZWE3Y2U4NjJlNWI5ZjEyZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3V0DKL9Jhyz8nKog/giphy.gif" width="400" height="250"/>
