@@ -1,54 +1,52 @@
-<h1 align="center">👋 Andrei - a Front-End Developer</h1>
-
-
-<h3 align="center">Frontend developer</h3>
-
-<h4 align="center">You can contact me on my social media:</h4>
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT1Ra12a03lcpJf5C0/giphy.gif" width="150"/>
+  <h1>👋 Hi there, I'm Andrei</h1>
+  <h3>Software Engineer at <a href='https://www.modsen-software.com/' style="color: #f17a00">Modsen</a></h3>
+  <a href="https://www.linkedin.com/in/iandyone/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
+  <a href="https://www.t.me/iandyone"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/></a>
 </div>
 
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/iandyone/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.t.me/iandyone">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+### About me
+
+- 🌱 Software Engineer at Modsen
+- 🌍 English - B1
+- 📑 My **[CV](https://iandyone.github.io/cv/)**
+
+
+### Languages and tool
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="next" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="node" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="nest" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="jest" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" title="cypress" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="storybook" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="gitlab" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" title="bitbucket" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="yarn" width="40" height="40"/>&nbsp;
+
+
+
+### My stat
+
+<div id="stat" align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iandyone&theme=github_dark" width="840"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iandyone&theme=github_dark" width="418"/> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iandyone&theme=github_dark" width="418"/> 
+
+<br/>
+<img src="https://www.codewars.com/users/iandyone/badges/large" width="418" align="left"/> 
 </div>
-
-</br>
-<h4 align="center">Tech Stack:</h4>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=HTML5" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=CSS3" alt="CSS Badge"/>
-  <img src="https://img.shields.io/badge/SASS-333?style=for-the-badge&logo=SASS" alt="SASS Badge"/>
-  <img src="https://img.shields.io/badge/tailwindcss-333?style=for-the-badge&logo=tailwind-css" alt="Tailwind Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=JavaScript" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=TypeScript" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=React" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Redux-333?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux Badge"/>
-  <img src="https://img.shields.io/badge/-RTK%20Query-333?style=for-the-badge&logo=react%20query&logoColor=white" alt="Next Badge"/>
-  <img src="https://img.shields.io/badge/Next-333?style=for-the-badge&logo=next.js" alt="Figma Badge"/>
-  <img src="https://img.shields.io/badge/Webpack-333?style=for-the-badge&logo=Webpack" alt="Webpack Badge"/>
-  <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=Git" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=GitHub" alt="GitHub Badge"/>
-  <img src="https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=Figma" alt="Figma Badge"/>
- </div> 
-
-<hr>
-
-
-
-
-
-<!--
-<img src="https://komarev.com/ghpvc/?username=iandyone&style=flat-square&color=blue" alt=""/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA3YmU2Y2MyYmVmZDJiY2VhZDgwYzcxZWE3Y2U4NjJlNWI5ZjEyZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3V0DKL9Jhyz8nKog/giphy.gif" width="400" height="250"/>
-</div>
--->
