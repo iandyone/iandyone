@@ -2,7 +2,6 @@
   <h1>👋 Hi there, I'm Andrei</h1>
   <h3>Software Engineer at <a href='https://www.modsen-software.com/' style="color: #f17a00">Modsen</a></h3>
   <a href="https://www.linkedin.com/in/iandyone/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
-  <a href="https://www.t.me/iandyone"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"/></a>
 </div>
 
 ### About me
